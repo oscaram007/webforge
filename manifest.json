@@ -1,1 +1,34 @@
-
+{
+  "name": "WebForge 3.0",
+  "short_name": "WebForge",
+  "description": "Monaco-powered browser IDE with multi-file support and offline capability",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "theme_color": "#0b0c10",
+  "background_color": "#0b0c10",
+  "lang": "en",
+  "categories": [
+    "developer",
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='80' fill='%230b0c10'/><text y='360' x='60' font-size='380' font-family='system-ui'>⚡</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Open Editor",
+      "url": "./",
+      "description": "Open the WebForge live editor"
+    }
+  ],
+  "version": "3.0.0"
+}
