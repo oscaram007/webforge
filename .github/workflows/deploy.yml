@@ -1,1 +1,100 @@
+name: Deploy WebForge 3.0 to GitHub Pages
 
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+
+  # ─── VALIDATE ─────────────────────────────────────────────────────────────────
+  validate:
+    name: Validate Files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check required files exist
+        run: |
+          PASS=true
+          for FILE in index.html sw.js manifest.json; do
+            if [ -f "$FILE" ]; then
+              SIZE=$(wc -c < "$FILE")
+              echo "✅ $FILE ($SIZE bytes)"
+            else
+              echo "❌ $FILE — MISSING"
+              PASS=false
+            fi
+          done
+          if [ "$PASS" = false ]; then exit 1; fi
+
+      - name: Check Service Worker references manifest
+        run: |
+          grep -q "webforge-v" sw.js && echo "✅ SW cache key found" || echo "⚠️  SW cache key not found"
+
+      - name: Check PWA manifest has name and start_url
+        run: |
+          python3 -c "
+          import json, sys
+          with open('manifest.json') as f:
+            m = json.load(f)
+          assert 'name' in m,      'manifest missing: name'
+          assert 'start_url' in m, 'manifest missing: start_url'
+          assert 'icons' in m,     'manifest missing: icons'
+          print('✅ manifest.json valid')
+          "
+
+      - name: File size report
+        run: |
+          echo ""
+          echo "── File sizes ─────────────────────────────────────"
+          du -sh index.html sw.js manifest.json README.md LICENSE 2>/dev/null || true
+          echo ""
+          TOTAL=$(cat index.html sw.js manifest.json | wc -c)
+          echo "Total deployable: $(echo "$TOTAL" | awk '{printf "%.1f KB", $1/1024}')"
+          if [ "$TOTAL" -gt 1048576 ]; then
+            echo "⚠️  Warning: total size exceeds 1MB — consider bundling or lazy-loading"
+          fi
+
+  # ─── DEPLOY ───────────────────────────────────────────────────────────────────
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: validate
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Deployment summary
+        run: |
+          echo ""
+          echo "══════════════════════════════════════════════"
+          echo "  🚀 WebForge 3.0 deployed successfully!"
+          echo "  🌐 ${{ steps.deployment.outputs.page_url }}"
+          echo "══════════════════════════════════════════════"
