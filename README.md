@@ -194,7 +194,7 @@ WebForge had a bug where creating a second project and switching back to the fir
 
 ### 📅 Keeping Up With Change
 
-**Skill involved:** Continuous Learning · Version Awareness · Skepticism of Old Sources
+**Skills involved➡️** Continuous Learning · Version Awareness · Skepticism of Old Sources
 
 ![Learning](https://img.shields.io/badge/Always-Learning-3dd68c?style=flat-square&logo=bookstack&logoColor=white)
 ![Documentation](https://img.shields.io/badge/Reads-Documentation-5b9cf6?style=flat-square&logo=readthedocs&logoColor=white)
@@ -209,7 +209,7 @@ The tools that software is built with do not stay the same. WebForge uses a form
 
 ### ⚡ Making It Fast Enough to Feel Effortless
 
-**Skill involved:** Performance Engineering · User Experience Thinking
+**Skills involved➡️** Performance Engineering · User Experience Thinking
 
 A coding tool that feels slow is a bad coding tool, full stop.
 
@@ -229,7 +229,7 @@ A coding tool that feels slow is a bad coding tool, full stop.
 
 ### 🛡️ Thinking About What Goes Wrong
 
-**Skill involved:** Defensive Programming · Empathy for Users · Edge Case Planning
+**Skills involved➡️** Defensive Programming · Empathy for Users · Edge Case Planning
 
 Most software behaves perfectly when everything goes according to plan. The real test is what happens when it does not.
 
