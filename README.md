@@ -34,10 +34,10 @@ same kind of software used by developers at major tech companies.
 | 📁 **Organize in Files** | Keep your design, content, and interactions in separate, tidy files |
 | 💾 **Auto-Save** | No save button needed 💾 Your work is saved quietly every few seconds |
 | 📂 **Multiple Projects** | Keep separate projects for school, personal work, or experiments |
-| 🔗 **Share With One Click** | Send anyone a single link — they get your full project instantly |
-| 📦 **Download as ZIP** | Export all your files in a standard folder to use anywhere |
-| 📡 **Works Offline** | After one visit, works completely without Wi-Fi |
-| 🎨 **Six Color Themes** | Choose a look that suits your eyes — dark, light, and everything between |
+| 🔗 **Share With One Click** | Send anyone a single link 🔗🌐 they get your full project instantly |
+| 📦 **Download as ZIP** | Export all your files in a standard folder to use anywhere 📁|
+| 📡 **Works Offline** | After one visit, works completely without Wi-Fi ⌨️💻🖱️|
+| 🎨 **Six Color Themes** | Choose a look that suits your eyes 🔆 dark, light, and everything between |
 | ✨ **Auto-Format Code** | One click tidies up messy code, like a grammar checker for programming |
 
 ---
