@@ -89,7 +89,7 @@ Works in **Chrome** 🟡  **Firefox** 🟠  **Edge** 🔵  **Safari** ⚪
 
 The editor engine has these popular coding tools:
 
-- 🧠 **Smart suggestions** as you type — like autocomplete on your phone
+- 🧠 **Smart suggestions** as you type ➡️ Similar to autocomplete on your phone
 - 🎨 **Color-coded text** so different parts of your code are easy to spot
 - 🔍 **Find and replace** across any file
 - ↩️ **Unlimited undo** to go back as far as you need
