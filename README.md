@@ -92,7 +92,7 @@ The editor engine has these popular coding tools:
 - 🧠 **Smart suggestions** as you type — like autocomplete on your phone
 - 🎨 **Color-coded text** so different parts of your code are easy to spot
 - 🔍 **Find and replace** across any file
-- ↩️ **Unlimited undo** — go back as far as you need
+- ↩️ **Unlimited undo** to go back as far as you need
 - 🖋️ **Beautiful font** with special ligatures that make code easier to read
 
 </details>
@@ -102,9 +102,9 @@ The editor engine has these popular coding tools:
 
 The preview panel shows your website exactly as a visitor would see it.
 
-- 🔥 **Hot CSS Reload** — change colors or fonts and the preview updates *instantly* without losing your place on the page
-- 📱 **Responsive Testing** — see how your site looks on a phone, tablet, or laptop screen
-- 🔗 **Smart file linking** — it automatically connects your HTML, CSS, and JavaScript files together, no setup needed
+- 🔥 **Hot CSS Reload** to change colors or fonts and the preview updates *instantly* without losing your place on the page
+- 📱 **Responsive Testing** allows you to see how your site looks on a phone, tablet, or laptop screen
+- 🔗 **Smart file linking** automatically connects your HTML, CSS, and JavaScript files together ➡️ no setup needed
 - 🪟 **Pop out** the preview into its own browser tab
 
 </details>
@@ -112,7 +112,7 @@ The preview panel shows your website exactly as a visitor would see it.
 <details>
 <summary>🖥️ <strong>Console Inspector</strong> — click to expand</summary>
 
-The console is a window that shows messages from your code while it runs — like a behind-the-scenes log.
+The console is a window that shows messages from your code while it runs (like a behind-the-scenes log).
 
 - 📋 Captures normal messages, warnings, and errors
 - 🌳 Shows complex data as an **expandable tree** you can click through
@@ -125,10 +125,10 @@ The console is a window that shows messages from your code while it runs — lik
 
 Manage everything you are working on from one place.
 
-- 💾 **Saves automatically** to your browser — no cloud account needed
+- 💾 **Saves automatically** to your browser ➡️ no cloud account needed
 - 📂 **Switch between projects** from a dropdown in the toolbar
-- 🔗 **Share projects** as a compressed link — the entire project travels in the URL
-- 📦 **Download as ZIP** — one click to export everything as a standard file archive
+- 🔗 **Share projects** as a compressed link ➡️ the entire project travels in the URL
+- 📦 **Download as ZIP** ➡️ one click to export everything as a standard file archive
 
 </details>
 
@@ -152,8 +152,8 @@ Instantly add powerful tools to your project with a single toggle:
 
 ## 🎓 What It Takes to Build Something Like This
 
-> This section is for anyone curious about the **craft and thinking** behind the tool.
-> You do not need to understand any of this to use WebForge — but if you have ever
+> This section is for anyone curious about the **craft and thinking** 🧰🛠⚙️🔍 behind the tool.
+> You do not need to understand any of this to use WebForge. But, if you have ever
 > wondered what building something like this actually involves, here is an honest
 > answer in plain language.
 
@@ -163,11 +163,11 @@ Instantly add powerful tools to your project with a single toggle:
 
 **Skill involved:** Systems Thinking · Big-Picture Planning
 
-Before writing a single line of code, a developer needs to understand how every piece will interact with every other piece. The editor, the live preview, the file manager, the save system, the sharing feature, the offline mode — these are not separate things bolted together. A change to one can quietly break something in another.
+Before writing a single line of code, a developer needs to understand how every piece will interact with every other piece. The editor, the live preview, the file manager, the save system, the sharing feature, the offline mode. These are not separate things bolted together. A change to one can quietly break something in another.
 
 > 🏛️ **Library comparison:** When a librarian plans a renovation, they do not just
 > think about the new reading area in isolation. They think about how it affects foot
-> traffic, shelving access, the children's section, and the emergency exits — all at
+> traffic, shelving access, the children's section, and the emergency exits all at
 > the same time. Software design works exactly the same way.
 
 ---
@@ -184,12 +184,8 @@ Before writing a single line of code, a developer needs to understand how every 
 
 WebForge is built using over a dozen different browser technologies. Knowing that a tool exists is very different from knowing how it actually behaves when something goes wrong.
 
-One example: WebForge has a feature called **hot CSS reload**. When you change the visual design of your page, instead of rebuilding the entire preview from scratch, it quietly patches just the style — preserving your scroll position and animations.
-
-Making this work required knowing that setting a property to an empty value does not restart a browser animation. You have to set it to the *specific name* of the animation after forcing the browser to recalculate its layout in between. That kind of knowledge does not appear in a beginner's tutorial.
-
 > 📖 **It comes from:** experience, reading detailed documentation, and often hours
-> of testing something that appears to be working — but is subtly broken.
+> of testing something that appears to not be working, rather it is just subtly broken.
 
 ---
 
@@ -199,11 +195,11 @@ Making this work required knowing that setting a property to an empty value does
 
 ```
 ❌ Some bugs produce no error message.
-❌ They silently do nothing.
+❌ They do nothing.
 ❌ Or they only appear after a very specific chain of steps.
 ```
 
-WebForge had a bug where creating a second project and switching back to the first would silently break the editor. No warning. No message. It just stopped responding. Finding it required thinking carefully about what the application was doing at each step across time — not just what it was doing right now.
+WebForge had a bug where creating a second project and switching back to the first would silently break the editor. No warning. No message. It just stopped responding. Finding it required thinking carefully about what the application was doing at each step across time, not just at the moment.
 
 > 🔍 **The debugging process:**
 > 1. Form a theory about what might be happening
@@ -278,7 +274,7 @@ Most software behaves perfectly when everything goes according to plan. The real
 
 Code that works but cannot be understood by anyone else has a serious problem: it cannot be maintained, improved, or safely changed without risk of breaking it.
 
-Good code reads almost like plain English. When something unusual is happening for a non-obvious reason, there is a note explaining *why* — not just *what*.
+Good code reads almost like plain English. When something unusual is happening for a non-obvious reason, there is a note explaining *why*, not just *what*.
 
 > 🏛️ **Library comparison:** This is the coding equivalent of clear signage.
 > Anyone who needs to find something can do so without having to ask
@@ -292,8 +288,8 @@ Good code reads almost like plain English. When something unusual is happening f
 
 | 🧠 Thinking Skills | 🔧 Technical Skills | 🤝 Human Skills |
 |---|---|---|
-| ✅ Systems thinking | ✅ JavaScript (advanced) | ✅ Writing clearly |
-| ✅ Planning ahead | ✅ Browser APIs (deep) | ✅ Thinking about users |
+| ✅ Systems thinking | ✅ JavaScript | ✅ Writing clearly |
+| ✅ Planning ahead | ✅ Browser APIs | ✅ Thinking about users |
 | ✅ Logical reasoning | ✅ CSS & animations | ✅ Patience |
 | ✅ Debugging methodically | ✅ Asynchronous code | ✅ Teaching through code |
 | ✅ Spotting edge cases | ✅ Performance tuning | ✅ Continuous learning |
@@ -305,17 +301,17 @@ Good code reads almost like plain English. When something unusual is happening f
 
 ## 💬 The Simple Version of All of That
 
-> Building something like WebForge well requires expertise across many areas —
+> Building something like WebForge well requires expertise across many areas:
 > technical knowledge, methodical problem-solving, and the discipline to keep
 > improving until the hard parts are as solid as the easy parts.
 
 The version numbers are not decoration. Each one represents a real cycle:
 
 ```
-Build something → Use it → Find the problems → Fix them → Repeat
+Building something → Using it → Finding the problems → Fixing them → Repeating continuously
 ```
 
-That cycle — more than any individual technique — is the skill.
+That cycle, more than any individual technique, is the actual skill.
 
 ---
 
