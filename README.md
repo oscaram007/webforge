@@ -104,7 +104,7 @@ The preview panel shows your website exactly as a visitor would see it.
 
 - 🔥 **Hot CSS Reload** to change colors or fonts and the preview updates *instantly* without losing your place on the page
 - 📱 **Responsive Testing** allows you to see how your site looks on a phone, tablet, or laptop screen
-- 🔗 **Smart file linking** automatically connects your HTML, CSS, and JavaScript files together ➡️ no setup needed
+- 🔗 **Smart file linking** automatically connects your HTML, CSS, and JavaScript files together ➡️ No setup needed
 - 🪟 **Pop out** the preview into its own browser tab
 
 </details>
