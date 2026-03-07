@@ -19,10 +19,10 @@ to download anything, create an account, or pay for a subscription. You simply o
 a file or visit a web address, and a professional coding workspace appears. This is similar to the
 same kind of software used by developers at major tech companies.
 
-> 💡 **Think of it like a word processor** — but instead of writing letters or essays,
+> 💡 **Think of it like a word processor** ➡️ Instead of writing letters or essays,
 > you are writing the instructions that tell a computer how to build a website. As you
 > type, a window right next to the editor shows you exactly what your website looks
-> like, updating automatically while you work.
+> like, updating automatically as you work.
 
 ---
 
