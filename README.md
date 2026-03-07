@@ -48,7 +48,7 @@ same kind of software used by developers at major tech companies.
 
 | 👩‍🎓 Students | 👨‍🏫 Teachers | 🎨 Hobbyists | 💼 Professionals | 🔍 The Curious |
 |---|---|---|---|---|
-| Learning HTML, CSS & JavaScript for the first time | Demonstrating concepts without asking students to install software | Building personal websites with a quick, portable workspace | Fast scratchpad without opening a heavy application | Anyone wondering how websites are made |
+| Learn HTML, CSS & JavaScript for the first time | Demonstrate concepts without asking students to install software | Build personal websites with a quick, portable workspace | Fast scratchpad without opening a heavy application | Anyone curious or experimenting on how websites are made |
 
 ---
 
