@@ -87,7 +87,7 @@ Works in **Chrome** 🟡  **Firefox** 🟠  **Edge** 🔵  **Safari** 🩶
 <details>
 <summary>📝 <strong>The Editor</strong> — click to expand</summary>
 
-The editor engine is the exact same one that powers **Visual Studio Code**, one of the most popular coding tools in the world. That means:
+The editor engine has these popular coding tools:
 
 - 🧠 **Smart suggestions** as you type — like autocomplete on your phone
 - 🎨 **Color-coded text** so different parts of your code are easy to spot
