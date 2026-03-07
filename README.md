@@ -60,11 +60,11 @@ same kind of software used by developers at major tech companies.
 3. That's it
 ```
 
-> 🟢 **No installation wizard.**
-> 🟢 **No welcome screen asking for your email.**
-> 🟢 **No account to create.**
+> 🟢 **NO installation wizard.**
+> 🟢 **NO asking for your email.**
+> 🟢 **NO account to create.**
 
-Works in **Chrome** 🟡 · **Firefox** 🟠 · **Edge** 🔵 · **Safari** 🩶
+Works in **Chrome** 🟡  **Firefox** 🟠  **Edge** 🔵  **Safari** 🩶
 
 ---
 
