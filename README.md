@@ -132,22 +132,6 @@ Manage everything you are working on from one place.
 
 </details>
 
-<details>
-<summary>📦 <strong>Library Manager</strong> — click to expand</summary>
-
-Instantly add powerful tools to your project with a single toggle:
-
-| Category | Available Tools |
-|---|---|
-| 🎨 CSS Frameworks | Tailwind, Bootstrap, Bulma |
-| ⚙️ JavaScript | Alpine.js, jQuery, Lodash, Axios, Day.js |
-| 🎬 Animation | GSAP, Anime.js, Motion One |
-| 📊 Charts & Data | Chart.js, D3.js, ApexCharts |
-| 🧊 3D & Canvas | Three.js, PixiJS |
-| 🛠️ Utilities | Marked, Lottie, Canvas Confetti |
-
-</details>
-
 ---
 
 ## 🎓 What It Takes to Build Something Like This
