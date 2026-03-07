@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ WebForge 3.0
-## A Plain English Guide for Everyone
+## A Plain Guide for Everyone (Non-programmers)
 
 ![WebForge](https://img.shields.io/badge/WebForge-3.0-7c6af7?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0b0c10)
 ![Free](https://img.shields.io/badge/Free-Forever-3dd68c?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0b0c10)
