@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ WebForge 3.0
+# ⚡ WebForge Version 3.0
 ## A Plain Guide for Everyone (Non-programmers)
 
 ![WebForge](https://img.shields.io/badge/WebForge-3.0-7c6af7?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0b0c10)
