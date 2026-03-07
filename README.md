@@ -144,7 +144,7 @@ Manage everything you are working on from one place.
 
 ### 🧩 Thinking About the Whole Thing at Once
 
-**Skill involved:** Systems Thinking · Big-Picture Planning
+**Skills involved➡️** Systems Thinking · Big-Picture Planning
 
 Before writing a single line of code, a developer needs to understand how every piece will interact with every other piece. The editor, the live preview, the file manager, the save system, the sharing feature, the offline mode. These are not separate things bolted together. A change to one can quietly break something in another.
 
@@ -157,7 +157,7 @@ Before writing a single line of code, a developer needs to understand how every 
 
 ### 🔬 Knowing the Tools Deeply
 
-**Skill involved:** Technical Expertise · Deep Reading · Hands-On Experience
+**Skills involved➡️** Technical Expertise · Deep Reading · Hands-On Experience
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-f5c842?style=flat-square&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-Advanced-5b9cf6?style=flat-square&logo=css3&logoColor=white)
@@ -174,7 +174,7 @@ WebForge is built using over a dozen different browser technologies. Knowing tha
 
 ### 🐛 Finding Bugs That Leave No Clues
 
-**Skill involved:** Methodical Debugging · Patience · Logical Reasoning
+**Skills involved➡️** Methodical Debugging · Patience · Logical Reasoning
 
 ```
 ❌ Some bugs produce no error message.
