@@ -272,7 +272,7 @@ Most software behaves perfectly when everything goes according to plan. The real
 ![Well Documented](https://img.shields.io/badge/Well-Documented-5b9cf6?style=flat-square&logo=gitbook&logoColor=white)
 ![Team Ready](https://img.shields.io/badge/Team-Ready-7c6af7?style=flat-square&logo=github&logoColor=white)
 
-Code that works but cannot be understood by anyone else has a serious problem: it cannot be maintained, improved, or safely changed without risk of breaking it.
+Code that works but cannot be understood by anyone else has serious problems. It cannot be maintained, improved, or safely changed without the risk of breaking it.
 
 Good code reads almost like plain English. When something unusual is happening for a non-obvious reason, there is a note explaining *why*, not just *what*.
 
