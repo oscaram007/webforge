@@ -26,7 +26,7 @@ same kind of software used by developers at major tech companies.
 
 ---
 
-## ✅ What Can You Do With It?
+## ✅ What Can You Do With It? 🤔🧠
 
 | Feature | What It Means For You |
 |---|---|
