@@ -12,7 +12,7 @@
 
 ---
 
-## 🌐 What Is WebForge?
+## 🌐 What Is WebForge? 💻👨‍💻</>
 
 WebForge is a **free coding tool that lives inside your web browser**. You do **NOT** need
 to download anything, create an account, or pay for a subscription. You simply open
