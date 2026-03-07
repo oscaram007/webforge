@@ -211,7 +211,7 @@ The tools that software is built with do not stay the same. WebForge uses a form
 
 **Skills involved➡️** Performance Engineering · User Experience Thinking
 
-A coding tool that feels slow is a bad coding tool, full stop.
+A coding tool that feels slow is a bad coding tool.
 
 | Decision | Why It Matters |
 |---|---|
