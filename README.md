@@ -125,10 +125,10 @@ The console is a window that shows messages from your code while it runs (like a
 
 Manage everything you are working on from one place.
 
-- 💾 **Saves automatically** to your browser ➡️ no cloud account needed
+- 💾 **Saves automatically** to your browser ➡️ No cloud account needed
 - 📂 **Switch between projects** from a dropdown in the toolbar
-- 🔗 **Share projects** as a compressed link ➡️ the entire project travels in the URL
-- 📦 **Download as ZIP** ➡️ one click to export everything as a standard file archive
+- 🔗 **Share projects** as a compressed link ➡️ The entire project travels in the URL
+- 📦 **Download as ZIP** ➡️ One click to export everything as a standard file archive
 
 </details>
 
