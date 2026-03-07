@@ -138,8 +138,7 @@ Manage everything you are working on from one place.
 
 > This section is for anyone curious about the **craft and thinking** 🧰🛠⚙️🔍 behind the tool.
 > You do not need to understand any of this to use WebForge. But, if you have ever
-> wondered what building something like this actually involves, here is an honest
-> answer in plain language.
+> wondered what building something like this actually involves, here is a plain answer.
 
 ---
 
