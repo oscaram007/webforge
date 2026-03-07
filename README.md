@@ -133,7 +133,7 @@ Manage everything you are working on from one place.
 </details>
 
 <details>
-<summary>📦 <strong>CDN Library Manager</strong> — click to expand</summary>
+<summary>📦 <strong>Library Manager</strong> — click to expand</summary>
 
 Instantly add powerful tools to your project with a single toggle:
 
