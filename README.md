@@ -30,7 +30,7 @@ same kind of software used by developers at major tech companies.
 
 | Feature | What It Means For You |
 |---|---|
-| ✏️ **Write & Preview Live** | Type code on the left, see your website on the right — updates as you go |
+| ✏️ **Write & Preview Live** | Type code on the left, see your website on the right 🔀 updates as you go |
 | 📁 **Organize in Files** | Keep your design, content, and interactions in separate, tidy files |
 | 💾 **Auto-Save** | No save button needed — your work is saved quietly every few seconds |
 | 📂 **Multiple Projects** | Keep separate projects for school, personal work, or experiments |
