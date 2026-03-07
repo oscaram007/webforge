@@ -82,7 +82,7 @@ Works in **Chrome** 🟡  **Firefox** 🟠  **Edge** 🔵  **Safari** 🩶
 
 ---
 
-## 🔧 Under the Hood — Features in Detail
+## 🔧 Under the Hood 🧰🛠⚙️ Features in Detail
 
 <details>
 <summary>📝 <strong>The Editor</strong> — click to expand</summary>
