@@ -314,6 +314,7 @@ Building something → Using it → Finding the problems → Fixing them → Rep
 That cycle, more than any individual technique, is the actual skill.
 
 ---
+<div align="center">
 
 ![Made With](https://img.shields.io/badge/Made_with-Monaco_Editor-7c6af7?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0b0c10)
 ![Build Tools](https://img.shields.io/badge/Build_Tools-None-3dd68c?style=for-the-badge&logo=html5&logoColor=white&labelColor=0b0c10)
