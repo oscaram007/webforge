@@ -44,7 +44,7 @@ same kind of software used by developers at major tech companies.
 
 ## 👥 Who Is It For?
 
-> **Everyone is welcome. No experience required.**
+> **Everyone. No experience required.**
 
 | 👩‍🎓 Students | 👨‍🏫 Teachers | 🎨 Hobbyists | 💼 Professionals | 🔍 The Curious |
 |---|---|---|---|---|
