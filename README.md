@@ -64,7 +64,7 @@ same kind of software used by developers at major tech companies.
 > 🟢 **NO asking for your email.**
 > 🟢 **NO account to create.**
 
-Works in **Chrome** 🟡  **Firefox** 🟠  **Edge** 🔵  **Safari** 🩶
+Works in **Chrome** 🟡  **Firefox** 🟠  **Edge** 🔵  **Safari** ⚪
 
 ---
 
