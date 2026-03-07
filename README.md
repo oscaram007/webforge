@@ -219,8 +219,8 @@ WebForge had a bug where creating a second project and switching back to the fir
 
 The tools that software is built with do not stay the same. WebForge uses a formatting tool called Prettier. Between version 2 and version 3, the way its components were loaded changed in a way that was easy to miss. Code written for the older version would appear to work — no crash, no visible error — but the formatting would silently fail because the components were being looked for in the wrong place.
 
-> ⚠️ **The lesson:** Never assume documentation from a previous version still applies.
-> Always test against the actual version being used. Always read the changelog.
+> ⚠️ **The lesson:** Never assume a previous code from an earlier version still works.
+> Always test against the actual version being used. Read the changelog.
 
 ---
 
