@@ -284,10 +284,6 @@ Good code reads almost like plain English. When something unusual is happening f
 
 ## 💬 The Simple Version of All of That
 
-> Building something like WebForge well requires expertise across many areas:
-> technical knowledge, methodical problem-solving, and the discipline to keep
-> improving until the hard parts are as solid as the easy parts.
-
 The version numbers are not decoration. Each one represents a real cycle:
 
 ```
