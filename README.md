@@ -57,7 +57,7 @@ same kind of software used by developers at major tech companies.
 ```
 1. Open the file called ***index.html*** in any modern browser
 2. Start coding
-3. That's it
+3. That's it!!!
 ```
 
 > 🟢 **NO installation wizard.**
