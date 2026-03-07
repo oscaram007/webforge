@@ -315,15 +315,6 @@ That cycle, more than any individual technique, is the actual skill.
 
 ---
 
-<div align="center">
-
-### 🌱 Anyone Can Start
-
-*The starting point is curiosity.*
-*It is never too late to begin.*
-
----
-
 ![Made With](https://img.shields.io/badge/Made_with-Monaco_Editor-7c6af7?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0b0c10)
 ![Build Tools](https://img.shields.io/badge/Build_Tools-None-3dd68c?style=for-the-badge&logo=html5&logoColor=white&labelColor=0b0c10)
 ![Dependencies](https://img.shields.io/badge/Dependencies_to_Install-Zero-f27c5a?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0b0c10)
