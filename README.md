@@ -176,7 +176,7 @@ Before writing a single line of code, a developer needs to understand how every 
 
 **Skill involved:** Technical Expertise · Deep Reading · Hands-On Experience
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-f5c842?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-f5c842?style=flat-square&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-Advanced-5b9cf6?style=flat-square&logo=css3&logoColor=white)
 ![Browser APIs](https://img.shields.io/badge/Browser_APIs-Advanced-3dd68c?style=flat-square&logo=googlechrome&logoColor=white)
 ![IndexedDB](https://img.shields.io/badge/IndexedDB-Proficient-7c6af7?style=flat-square&logo=databricks&logoColor=white)
