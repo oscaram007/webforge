@@ -8,8 +8,6 @@
 ![No Install](https://img.shields.io/badge/No_Install_Required-f27c5a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b0c10)
 ![Works Offline](https://img.shields.io/badge/Works_Offline-5b9cf6?style=for-the-badge&logo=wifi&logoColor=white&labelColor=0b0c10)
 
-*What it is, what it does, and what it takes to build something like it*
-
 </div>
 
 ---
