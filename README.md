@@ -184,7 +184,7 @@ Before writing a single line of code, a developer needs to understand how every 
 
 WebForge is built using over a dozen different browser technologies. Knowing that a tool exists is very different from knowing how it actually behaves when something goes wrong.
 
-> 📖 **It comes from:** experience, reading detailed documentation, and often hours
+> 📖 **It comes from** experience, reading detailed documentation, and often hours
 > of testing something that appears to not be working, rather it is just subtly broken.
 
 ---
