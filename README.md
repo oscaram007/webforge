@@ -14,9 +14,9 @@
 
 ## 🌐 What Is WebForge?
 
-WebForge is a **free coding tool that lives inside your web browser**. You do not need
+WebForge is a **free coding tool that lives inside your web browser**. You do **NOT** need
 to download anything, create an account, or pay for a subscription. You simply open
-a file or visit a web address, and a professional coding workspace appears — the
+a file or visit a web address, and a professional coding workspace appears. This is similar to the
 same kind used by software developers at major technology companies.
 
 > 💡 **Think of it like a word processor** — but instead of writing letters or essays,
